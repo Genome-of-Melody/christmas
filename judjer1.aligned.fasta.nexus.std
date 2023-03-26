@@ -1,0 +1,30 @@
+#NEXUS
+BEGIN DATA;
+	DIMENSIONS NTAX=22 NCHAR=72;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
+	MATRIX
+
+_003511_6	gggfedffghhggghkgghgff-khghljkjhgggghgfdfghh-ggfedefggg-------kkjkh----g
+_003511_12	gggf-defghhggghjgghgffkkjhhlk--jhggghfedefghhggfdfefggg-------kkjkh----g
+_003511_17	gggf-defghhggghjgghgffkkjhhl---jhggghfedefghhggfdfefggg-------kkjkh----g
+_003511_28	gggfedffghhggghkgghgff-kjhhljk-h-ggghfedefghhggfedefggg-------kkjkh----g
+_003511_30	ggg--deffhhggghjghhgfk-kjh-lkj-hgggghfedeffhhgg---fdhhjjjghkkkkkjkh----g
+_003511_44	gggfedffghhggghk-ghgff-kjhhljkjhgggghfedfghhgggfedefggg-------kkjkh----g
+_003511_48	ggg--defghhggghjghhgfk-kjhglkj-hgggghfedeffhhgg---dfhgg-------kkjkh----g
+_003511_55	gggfedffghhg------------------------------------------------------------
+_003511_69	gggfedffghhggghk-ghgff-kjhhljkjh-ggghfedfgh--ggfedefggg-----kkkkjkh----g
+_003511_82	gggfedffghhggghkgghgff-kjhhkjk-hgggghfedfghh-ggfedefggg-----------------
+_003511_91	gggfedffghhggghkg-------------------------------------------------------
+_003511_103	gggfedffghhggghk-ghgff-kjhhljkjhgggghfedfghh-ggfedefggg-----------------
+_003511_113	gggf-defghhggghkgghgff-kjhhkjk-hgggghfedefghhggf-defggg-----------------
+_003511_118	gggf-defghhggghjhghgffkkjhhlk--jhggghfedefghhggfdfefggg-------kkjkh----g
+_003511_124	gg---dehghhggghj-ghgfk-kjhhlkjkhgggghfedf---------efggg-------kkjkh----g
+_003511_131	gggf-defghhgggghjghgfk-kjhhlkkjhgggghfedfghh-ggfdfefggg-------kkjkh----g
+_003511_138	------------------------------------------------------------------------
+_003511_139	------------------------------------------------------------------------
+_003511_141	gghg--ghfhjhghhghgfgffklkklkjhkjhggghgfdfhg--------fggh-------kkkjhkjhgg
+_003511_149	gggf-defghhggghkgghgffkkjhhlkkkhgggghfedefghhggfd-----------------------
+_003511_150	gggf-def----------------------------------------------------------------
+_003511_151	gggf-defghhggh-------------kkkk-----------------------------------------
+;
+end;

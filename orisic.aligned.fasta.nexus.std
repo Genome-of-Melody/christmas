@@ -1,0 +1,30 @@
+#NEXUS
+BEGIN DATA;
+	DIMENSIONS NTAX=22 NCHAR=97;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
+	MATRIX
+
+_004195_8	gg-dfgg-hgfgh---hfhhk-gh--gfgh-gfgfedff---dfcdfggfhhk-h-g----------------fghhgg-----kkkjk-hg-----
+_004195_13	gg-dfgghhgfgh--ghfhkj-gh--gfgh-gfgfedff---dfcdfggfhhk-h-g----------------fghhgg------kkjk-hg-----
+_004195_18	gg-dfgghhgfgh--ghfhkj-gh--gfgh-gfgfedff---dfcdfggfhhk-j-h----------------fghhgg------kkjk-hg-----
+_004195_20	gg-dfgg-hg---------------------------------------------------------------------------------------
+_004195_29	gg-dfgg-hgfgh---hfhhk-ghg-gfgh-gfgfedff---dfcdfggfhhkjh-g----------------fghhgg------kkjk-hg-----
+_004195_31	gg-dfgg-hgfgh--ghf-hk-ghgfghgh-gfgfedff-edefcdfggf-hk-hgg----------------ffhhgggh---kkkjk-hg-----
+_004195_46	gg-dfgg-hgfgh-hjhfhhk-gh--gfgh-gfgfedff---dfcdfggfhhk-h-g----------------fghhgg------kkjk-hg-----
+_004195_47	gg-dfgg-hgfgh--ghf-hk-ghgfghgh-gfgfedff-edefcdf-gf-hk-h-g----------------fghhgg------kkjk-hg-----
+_004195_50	gg-dfgg-hgfgh---hfhhk-gh--g----------------------------------------------------------------------
+_004195_67	g--dfg----fgh--hhfhhk-gh--gfgh-gfgfed-f---dfcdfggf-hk-h-g----------------fghhgg------kkjk-hg-----
+_004195_84	gg-dfgg-hgfgh---hfhhk-gh--gfgh-gfgfedff---dfcdfggfhhk-h-g----------------fghhgg------------------
+_004195_93	gg-dfgg-hgfgh--ghf-hk-gh--gfgh-gfgfedff---fgcdfggf-hk-h-g----------------fghhgg------------------
+_004195_114	gg-dfgg-hgfgh--ghfhhk-gh--gfgh-gfgfedff---dfcdfggf-hk-h-g----------------fghhgg------kkjkjhg-----
+_004195_119	gg-dfgghhgfgh-hghfhkk-gh--gfgh-gfgfedff---dfcdfggfhhk-h-g----------------fghhgf------kkjk-hg-----
+_004195_125	ggfdfgghggfgh--ghfhkj-ghg-gfgh-gfgfeddffeddfcdfggfhhk-h-g----------------fghhgg------kkjk-hg-----
+_004195_126	ggfdfgg-hgfghghijh-------------------------------------------------------------------------------
+_004195_132	ggfdfgghhgfgh-hjhfhkj-ghg-gfgh-gfgfedff---dfcdfggfhhk-h-g----------------fghhgg------kkjk-hgghkkk
+_004195_133	ggfdfgg-hgfghghjhfhkj-gh--gfgh-gfgfedff---dfcdfggf-hk-h-g----------------fghhgg------kkjk-hgghgkk
+_004195_152	gg-dfgghhgfgh-ghhfhhkjghg-gfghggfgfedff-dddfcdfggfhhkjh-g----------------fghhgggh-kkkkkkl-kh-----
+_004195_153	ffcdfeg--gf--------------------------------------------------------------------------------------
+_004195_157	gg-dfgg-hgfghghjhf-hk-ghg-gfghgfegfedfe--fdfcdfggf-hk-j-g----------------gghg------kkkkjk-hg-----
+_004195_158	gg-dfgg-hgfghghjhf-hk-ghg-gfghggfgfedff---dfcdfggf-hk-j-gggffefgffedccdedfghhggghgkkkkkjk-hg-----
+;
+end;

@@ -1,0 +1,40 @@
+begin mrbayes;
+[Script documentation carried out using comments]
+
+[log the analysis]
+log start filename=cumesset.log;
+[read the matrix cumesset.aligned.fasta.nexus.std]
+execute cumesset.aligned.fasta.nexus.std;
+
+[close analysis at end]
+set autoclose=yes;
+[This command shows the status of all the taxa, according to the documentation]
+taxastat;
+
+[definition of individual partitions per marker]
+charset morph=1-151;
+
+[definition of the single partition]
+partition chants=1:morph;
+
+[specification of substitution models]
+set partition=chants;
+lset applyto=(1) coding=all rates=invgamma; [Mkv+I+G, nstates is automatic for the standard datatype]
+
+[show the model just specified for each partition]
+showmodel;
+
+[set up the MCMC, with this setting the analysis will need not less than 16 threads]
+mcmcp nruns=4 ngen=10000000 nchains=4 samplefreq=1000 printfreq=1000;
+[run the MCMC]
+mcmc;
+
+[summarize the posterior trees]
+sumt nruns=4 relburnin=yes burninfrac=0.50;
+plot;
+
+[summarize parameter posteriors]
+sump;
+
+log stop;
+end;

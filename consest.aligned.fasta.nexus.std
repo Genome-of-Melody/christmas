@@ -1,0 +1,25 @@
+#NEXUS
+BEGIN DATA;
+	DIMENSIONS NTAX=17 NCHAR=105;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
+	MATRIX
+
+_007040a_0	-----------------------------------------dhhhegfe--dfefghghihgfghggdfefghde----fefgfedcfghhf-gedecde----e
+_007040a_3	-----------------------------------------dgh--gfe--dfe-ghghkhgfghg-dfe-gh-d----fefgfedcf-ghf-gedece-----f
+_007040a_9	hmlmlkjhkjklmlmnmlklmlkkjklmhhjlkjhklmmkmjhj-------------ghjhj-------------------------------------------
+_007040a_14	hmlmlkjhkjklmlmnmlklmlkkjklmhhjlkjhklmmkljhj------------hghjhj-------------------------------------------
+_007040a_25	-----------------------------------------dhhg-gfe--deefghghjhgfghgfdfefghgd----fefgfeddf-hhf-gedfcdehhhge
+_007040a_41	-----------------------------------------cgg--fed--dfe-ghghkhgfghg-dfe-gh-d----fefgfedcf-ghf-gedecde-----
+_007040a_52	d----------------------------------------dhh--gfe--dfefghghkhgfghg-dfefgh-d----fefgfed-f-ghf-gedecde-----
+_007040a_59	-----------------------------------------dhh--gfe----dfghghkhgfghg-dfe------------gfedcf-ghf--edecde--deg
+_007040a_79	-----------------------------------------dhh--gfe--dfefghghkhgfghggdfefgh-d----fefgfed-f-ghf-gedecde-----
+_007040a_86	-----------------------------------------dhh--gfe--dfefghghkhgfghg-dfegeh-d----fefgfedcf-ghfdgedecde-----
+_007040a_98	-----------------------------------------dhh--gfe--dfe-ghghkhgfghg-dfe-gh-d----fefgfedcf-ghf-gedec-------
+_007040a_110	-----------------------------------------dhh--gfe--dfe-ghghkhgfghg-dfe-gh-d----fefgfed-f-ghf-gedecde----e
+_007040a_115	hmlmlkjhkjklmlmnmlklmlkkjklmhhjlkjhkl-mkljhj-------------ghjhj-------------------------------------------
+_007040a_121	-----------------------------------------dhhg-gfe--dfefghghkhgfghg-ffefgh-d----degfedd-f-hhf-gedecde---de
+_007040a_128	-----------------------------------------dhh--gfe--dfefghghkhgfghgfdfefgh-d----dfgfedd-d-fhf-gedecde---de
+_007040a_144	-----------------------------------------dhhg-gfefdfeffghghkhgfghgfdfeffghdddfeffgffeddf-hhf-gedfcddedege
+_007040a_155	-----------------------------------------dhh--gfe--dfefghghkhgfgh----------------------------------------
+;
+end;

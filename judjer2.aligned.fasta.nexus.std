@@ -1,0 +1,25 @@
+#NEXUS
+BEGIN DATA;
+	DIMENSIONS NTAX=17 NCHAR=199;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
+	MATRIX
+
+_605019_7	-fedeeeefe-dfe-ghd-fece-gfedecefgfghgh--fedegfedh-----------------hkhhh-----------------------------------------hgefedfghg---hhh-------------------------gefdcdd--fgfed-eegh----fgefeh--gfgdff----hfggf
+_605019_11	-----------------------------------khk----------kkkkkjhjjlmhkkjgjljkjhjgjllkl-mlmjhjkhmmnmmmlmmljkjhklmlmmmmlklkjh-----ghhklkjhjjlmmlmlkh-mmkllkkjhkjlkkkj---------------------------------------------
+_605019_16	-----------------------------------khk----------kkkkkjhjjlmhkkjgjljkjhjjllklm-mlmjhjkhmmnmmmlmmljkjhklmlmmmmlklkjh-----ghhklkjhjjlmmlmlkh-mmkllkkjhkjlkkkj---------------------------------------------
+_605019_27	-fedeeeefe-dee-ghd-fedegffedecegfg-hgh--fedegeehhk----------------hhhgh-----------------------------------------hgefedfghg---hhhh------------------------gefdcdde-fgfed-eeghhghgfgfedhhfggfdfef---gfgfe
+_605019_35	efedeeeefe-dfe-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+_605019_45	-fedeeeefe-dfe-ghd-feceggfedecefgfghgh--fedegfedh-----------------hkhhh-----------------------------------------hgefedfghg---hhhg---------------------------------fefedced------------------------fdeed
+_605019_56	-fedeeeefe-dfe-gef-fe----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+_605019_68	-fedeeeefefdfe-ghd-feceggfedecefgf--gh--fedegfed------------------hkhhh-----------------------------------------hgffedfghg---hhhh------------------------g--------fgfed-fe------------------------geffe
+_605019_83	-fedeefffe-dfefghd-fece-gfedecefgfghgh--fedegfedh-----------------hkhhh-----------------------------------------hgefedfghg---hhhh------------------------gefdcdd--fgfed-ffgh----fgfedh-fggfdfe----geffe
+_605019_92	-fedfffffe-dfefghdefedefgfedecefgfghghefedefgfedh-----------------hkhhh-----------------------------------------hgefedfghg---hhh-------------------------gefdcdde-fgfed-eegh-ghgfgfedhgfggfedfeg--feggf
+_605019_102	-fedeeeefe-dfe-ghd-feceggfedecefgfghgh--fedegfedh-----------------hkhhh-----------------------------------------hgefedfghg---hhhg---------------------------------fgfed-fe------------------------geffe
+_605019_112	-fedeeeefe-dfe-ghdefece-gfedecegfg-hgh--fedegeehhkh---------------hhhgh-----------------------------------------hgefedfghghghhhhh------------------------gefdcddefggfed-eeghh---fgfedhhfggffedfe--gfffe
+_605019_117	-----------------------------------khk----------kkkkkjhjjlmhkkjgjkhjhghgjllklmmlmjhjkhmmnmmml-mljkjhklmlmmmmlklkjh-----ghhklkjhjjlmmlmlkhmmmkllkkhkjklklkj---------------------------------------------
+_605019_123	-fdffffffe-dee-ghdffecegefedecegff-hhg--hedegfhhij----------------hhhgh-----------------------------------------hgefedfghg---hhhh------gf----------------gfedcdd--fgfed-eeghhghgfgfedhhfggfdfe----gfffe
+_605019_130	-fdffffffe-dee-ghdffece-gefedceggf-hhg--hedegehhj-----------------hhhgh-----------------------------------------hgefedfghg---hhh-------------------------fgfecdd--fgfed-eeghhghgfgf-dhhfggfdfe-----fgfe
+_605019_148	-fdeeefffe-deegghd-dfdegffddeceggfghhg--hedegehhk-----------------hhhgh-----------------------------------------hgefedfgghhgghhhh------------------------gefdcdd--fgfed-eeghhghgfedehhhfggfefdfeefgeffe
+_605019_156	-fedfffffe-dfefghdffece-gfedecefg----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;
+end;

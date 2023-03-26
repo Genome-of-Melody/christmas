@@ -1,0 +1,24 @@
+#NEXUS
+BEGIN DATA;
+	DIMENSIONS NTAX=16 NCHAR=151;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
+	MATRIX
+
+_002000_4	-gg-fedefggg--hgfgh---kjhg-hhhgf-----ggg--gkj--kllkh--kgghgfffghh--jkjh-ghg-fefgg-gggg-fedf---fghg---hgfghhhhghjkjhgefghjkj---hg-efggg-----kkkjkkhg----
+_002000_10	-gg-efdefggg-hhgfgh-kkkjhg-hhhgf-----ggf--hkk--llkkjhkkjghgff-ghk--kkjh-ghg-fefg--gggg-fdef---ghgh---hgfghhhhghkkjhh--ghjhg---hgfefggg-----kk--jkhg----
+_002000_15	-ggfefdefggghhhgfgh-kkkjhghhhhgf-----ggf--hkk--llkkjhkkjghgff-ghk--kkjh-ghg-fefg--gggg-fdef--gghgh---hgfghhhhghkkjhh--ghjhg---hgfefggg-----kk--jkhg----
+_002000_26	-gg-f-defggg--hgfgh---kjhg-hhhgf-----ggg--gkk-lklkkh--kjghgfffghh--jkjh-ghgffefgf-gggg-fdef---ghgg---hgfg-hhhghjkjhggghhkhg---hg-efggg-----kk--jkhg----
+_002000_42	ggg-fedefggg--hgfgh---kjhg-hhhgf-----ggg--gkj--kllkh--k-ghgfffghh--jkjh-ghg-fefgfggggg-fedf---fghg---hgfg-hhhghjkjhgefghjkj---hg-efggg-----kk--jkhg----
+_002000_53	-gg-fedefggg--hgfgh---kjhg-hhhgf-----gg----------------------------------------------------------------------------------------------------------------
+_002000_63	-gg-fedefgg---hgfgh--kkjhg-hhhgfefgfgggg--gkj--kllkh--k-ghgff-gh---kjhg-hhg-fefgf-ggj---------jhgf---hfgh-hghghjkjhgefghjkj---hg-efggg-----kk--jkhg----
+_002000_71	-gg-f-defggg--hgfgh---kjhg-ghhgf-----ggg--gkk---llkh--jkghgfffghh---jkh-ghg-fefg--gggg-fdff---gghg---hgfg-hhhghjkjhggghhjhg---hgfffggg-----------------
+_002000_80	-gg-gfdefggg--hgfgh---kjhghhhhgf-----ggg--gkj--kllkh--k-ghgfffghh---kjh-ghg-fefgf-gggg-fedf---fghg---hgfg-hhhgg-kjhgefghk-----jh-efggg-----kk--jkhg----
+_002000_87	ggg-fedefggg--hgfgh---kjhgghhhgf-----ggg--gkj---klkh--kgghgfffghh--jkjh-ghg-fefgf-gggg-fedfefgghgg---hgfg-hhhghjkjhgghghhkjhgfhg-efggg-----------------
+_002000_99	-gg-fedefggg--hgfgh---kjhg-hhhgf-----ggg--gkj--hjjhh--k-ghgfffghh--jkjhgghg-fefgf-gggf-fedf---fghg---hgfg-hhhghjkjhgefghjkj---hg-efggg-----------------
+_002000_111	-gg-f-defggg--hgfgh---kjhg-hhhgf-----ggg--gkjkllkkjh--kjghgfffghh---kjh-ghg-fefgf-gggg-fdff---ghgg---hgfg-hhhghkkjhgfghhjk----hg-efggg-----------------
+_002000_116	-gg-efdefggghhhgfgh-kkkjhg-hhhgf-----ggf--hkk--llkkjhkkjghgff-ghk--kkjh-ghg-fefg--gggg-fdef---ghgh---hgfghhhhghkkjhh--ghjhg---hgfefggg-----kk--jkhg----
+_002000_122	-gg-ffdefggg-hhgffh---kkjh-hhhgf-----ggf--hkk--llkkh--kjghgfffghhh-kkjh-ghg-fefgf-ggggffddfefgghgghijhgfg-ghhgh-kijhghhijhg---hgfefgggghgkkkk--jkhg----
+_002000_129	-gg-f-defggg-hhgffh--kkjhg-hhhgf-----ggf--hkk---lkjh--kkghgfffghhg-hkkj-hhg-fefgf-gggg-fdfe-fggghhij-hgfg-hhhhghkjhggghhjhg---hgfefggg-----kk--jkhgghgk
+_002000_145	-gg-f-defggg-hhgfghggkkjhghhghgf-----ggghhhkk--llkkh--k-ghgfffghhggkkjh-ghg-fefgf-gggg-fddfefgghgg---hgfg-hhhhggkjhggghhkhg---hg-efggg-----------------
+;
+end;

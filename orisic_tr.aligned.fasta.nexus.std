@@ -1,0 +1,30 @@
+#NEXUS
+BEGIN DATA;
+	DIMENSIONS NTAX=22 NCHAR=161;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
+	MATRIX
+
+_004195_8	g|g-d|fg|g-hg~f|gh~--h--~f|h|h-k~gh-|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|hk-~h-----------------------g|f~gh|h|g|g------------k~k~kj~k-~h~g----------
+_004195_13	g|g-d|fg|ghhg~f|gh-g~h--~f|h|k-j~gh-|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|hk-~h-----------------------g|f~gh|h|g|g~-----------k|k|-j|k-|h|g----------
+_004195_18	g|g-d|fg|ghhg~f|gh-g~h--~f|h|k-j~gh-|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|hk-~j-----------------------h|f~gh|h|g|g~-----------k|k|-j|k-|h|g----------
+_004195_20	g|g-d|fg|g-hg----------------------------------------------------------------------------------------------------------------------------------------------------
+_004195_29	g|g-d|fg|g-hg~f|gh~--h--~f|h|h-k~ghg|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|hkj~h-----------------------g|f~gh|h|g|g~-----------k|k|-j|k-|h|g----------
+_004195_31	g|g-d|fg|g-hg~f|gh-g~h--~f|h|--k~gh-|g~f~ghg|h-|g~f-~g|fe---|d~f-|f-e|def~c|d~fg|gf~h|-k-~h-g--------------------|g-f~fh|h|g|g~g|h-----|k~k|k|-j|k-|h|g----------
+_004195_46	g|g-d|fg|g-hg~f|gh~hjh--~f|h|h-k~gh-|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|hk-~h-----------------------g|f~gh|h|g|g------------k~k~-j~k-~h~g----------
+_004195_47	g|g-d|fg|g-hg~f|gh-g~h--~f|h|--k~gh-|g~f~ghg|h-|g~f-~g|fe---|d~f-|f-e|def~c|d~fg|-f~h|-k-~h----------------------|g-f~gh|h|g|g------------k~k~-j~k-~h~g----------
+_004195_50	g|g-d|fg|g-hg~f|gh~--h--~f|h|h-k~gh-|g---------------------------------------------------------------------------------------------------------------------------
+_004195_67	g--------d-fg~f|gh~h|h--~f|h|h-k~gh-|g~f---g~h-|g~f-~g|fe---|d~f------|df~c|d~fg|gf~h--k-~h-----------------------g|f~gh|h|g|g~-----------k|k|-j|k-~h|g----------
+_004195_84	g|g-d|fg|g-hg~f|gh~--h--~f|h|h-k~gh-|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|hk-~h-----------------------g|f~gh|h|g|g-----------------------------------
+_004195_93	g|g-d|fg|g-hg~f|gh-g~h--~f|h|--k~gh-|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|fg~c|d~fg|gf~h|-k-~h-----------------------g|f-gh|h|g|g-----------------------------------
+_004195_114	g|g-d|fg|g-hg~f|gh-g~h--~f|h|h-k~gh-|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|-k-~h-----------------------g|f~gh|h|g|g~-----------k|k|-j|kj|h|g----------
+_004195_119	g|g-d|fg|ghhg~f|ghhg~h--~f|h|k-k~gh-|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|hk-~h-----------------------g|f~gh|h|g|f~-----------k|k|-j|k-|h|g----------
+_004195_125	g|gfd|fg|ghgg~f|gh-g~h--~f|h|k-j~ghg|g~f~--g|h-|g~f-~g|fed|d~f|f-ed---|df~c|d~fg|gf~h|hk-~h-----------------------g|f~gh|h|g|g~-----------k|k|-j|k-|h|g----------
+_004195_126	g|gfd|fg|g-hg~f|gh-g~h---------i-jh------------------------------------------------------------------------------------------------------------------------------
+_004195_132	g|g-fdfg|ghhg~f|gh~hjh--~f|h|k-j~ghg|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|hk-~h-----------------------g|f~gh|h|g|g~-----------k|k|-j|k-|h|g~g|h~k|k|k
+_004195_133	g|g-fdfg|g-hg~f|gh-g~hjh~f|h|k-j~gh-|g~f~--g|h-|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|-k-~h-----------------------g|f~gh~h|g|g~-----------k|k|-j|k-|h|g~g|h|g-k|k
+_004195_152	g|g-d|fg|ghhg~f|gh-g~hh-~f|h|hkj~ghg|g~f~--g|hg|g~f-~g|fe---|d~f-|f|d-ddf~c|d~fg|gf~h|hkj~h-----------------------g|f~gh|h|g|g~-----------g|h|-k~k-|k|k~k|k~l-k|h
+_004195_153	f|f-c|df|e-gg-f--------------------------------------------------------------------------------------------------------------------------------------------------
+_004195_157	g|g-d|fg|g-hg~f|gh-g~hjh~f|h|--k~ghg|g~f~--g|h-|g~fe~g|fe---|d~fe|f---|df~c|d~fg|gf~h|kj-~g|g~--------------------g|h|gk|k---------------~k|k|-j|k-|h|g----------
+_004195_158	g|g-d|fg|g-hg~f|gh-g~hjh~f|h|--k~ghg|g~f~--g|hg|g~f-~g|fe---|d~f-|f---|df~c|d~fg|gf~h|kj-~g|g~gf|fe|fgffe|dc~c|d|ed|f~gh|h|g|g~g|h|gk|k|k~k|k|-j|k-|h|g----------
+;
+end;

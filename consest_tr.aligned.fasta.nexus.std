@@ -1,0 +1,25 @@
+#NEXUS
+BEGIN DATA;
+	DIMENSIONS NTAX=17 NCHAR=100;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
+	MATRIX
+
+_007040a_0	-dhhh--egfe|df-e-fgh-g|hi---hgfgh|gg-df-efg-h------def|e-f-g-fe-d-c|fgh|h-f-gede-c---de------------e
+_007040a_3	-dg|h--|gfe~df|e--gh|g~hk|h|gf|gh~-g|df|e-g-h------|df~e-f-g|fe|d-c~f|g~h-f-gede-c---ef-------------
+_007040a_9	-hm|lm-|lkj~hk|j-klm|l~mn|m|lk|lm~lk|-k|jkl-m--------h|h-j~l|kj|h~k|l-m~m-k-mjhj-g---hj~----h------j
+_007040a_14	-hm|lm-|lkj~hk|j-klm|l~mn|m|lk|lm~lk|-k|jkl-m--------h|h-j~l|kj|h~k|l-m~m-k-ljhjhg---hj~----h------j
+_007040a_25	-dh|hg-|gfe~de|e-fgh|g~hj|h|gf|gh~gf|df|efg-hg-----|df~e-f-g|fe|d~d|f-h~h-f-gedf-c---de~h~hhg------e
+_007040a_41	-cg|g--|fed~df|e--gh|g~hk|h|gf|gh~-g|df|e-g-h------|df~e-f-g|fe|d-c~f|g~h-f-gede-c---de-------------
+_007040a_52	ddh|h--|gfe~df|e-fgh|g~hk|h|gf|gh~-g|df|efg-h------|df~e-f-g|fe|d--~f|g~h-f-gede-c---de-------------
+_007040a_59	-dh|h--|gfe~df|---gh~g|hk---hg|fg---------h~g------|df~e---g|fe~d|c~f-g~h-f-edec-d|e~de------------g
+_007040a_79	-dh|h--|gfe~df|e-fgh|g~hk|h|gf|gh~gg|df|efg-h------|df~e-f-g|fe|d--~f|g~h-f-gede-c---de-------------
+_007040a_86	-dh|h--|gfe~df|e-fgh|g~hk|h|gf|gh~-g|df|ege-h------|df~e-f-g|fe|d-c~f|g~h-fdgede-c---de-------------
+_007040a_98	-dh|h--|gfe~df|e--gh|g~hk|h|gf|gh~gd|fe|--g-h------|df-e~f-g|fe|d-c~f|g~h-f-gede-c------------------
+_007040a_110	-dh|h--|gfe~df-e-|gh|g~hk|h|gf|gh~-g|df-e|g-h------|df~e-f-g|fe|d--~f|g~h-f-gede-c---de-----e------~
+_007040a_115	-hm|lm-|lkj~hk|j-klm|l~mn|m|lk|lm~lk|-k|jkl-m--------h|h-j~l|kj|h~k|l--~m-k-ljhj-g---hj~----h------j
+_007040a_121	-dh|hg-|gfe~df|e-fgh|g~hk|h|gf|gh~gf|-f|efg-h--------d|d-e~g|fe|d~d|f-h~h|f-gede-c---de~----d------e
+_007040a_128	-dh|h--|gfe~df|e-fgh|g~hk|h|gf|gh~gf|df|efg-h--------d|d-f~g|fe-d|d~d|f~h|f-gede-c---de~----d------e
+_007040a_144	-dh|hg|gfef~df|effgh|g~hk|h|gf|gh~gf|df|eff-gh|dddf~ef-f-g-f|fe|d~d|f-h~h-f-gedf-c---dd-----e~de~g|e
+_007040a_155	-dh|h--|gfe~df|e-fgh|g~hk|h|gf|gh~------------------------------------------------------------------
+;
+end;
