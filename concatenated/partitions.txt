@@ -1,0 +1,6 @@
+AA, concatenated/bethnon_src.aligned.fasta.prenexus.nexus = 1-137
+AA, concatenated/consest_src.aligned.fasta.prenexus.nexus = 138-241
+AA, concatenated/cumesset_src.aligned.fasta.prenexus.nexus = 242-384
+AA, concatenated/judjer1_src.aligned.fasta.prenexus.nexus = 385-445
+AA, concatenated/judjer2_src.aligned.fasta.prenexus.nexus = 446-641
+AA, concatenated/orisic_src.aligned.fasta.prenexus.nexus = 642-720
