@@ -1,22 +1,23 @@
 #NEXUS
 BEGIN DATA;
-	DIMENSIONS NTAX=14 NCHAR=143;
+	DIMENSIONS NTAX=15 NCHAR=149;
 	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
 	MATRIX
 
-' A-VOR Cod. 259/I'	-gg-fedefggg--hgfgh---kjhg-hhhgfggg--gkjkll--khkgghgfffghh--jkjh-ghg-fefgg-gggg-fedf---fghg---hgfghhhhghjkjhgefgh--jkj-hgefggg-----kkkjkkhg----
-' A-Wn 1799**'	-gg-efdefggg-hhgfgh-kkkjhg-hhhgfggf--hkkllk-kjhkkjghgffghk--kkjh-ghg-fefg--gggg-fdef---ghgh---hgfg-hhhhghkkjh-hgh--jhghgfefggg-----kk--jkhg----
-' CDN-Hsmu M2149.L4'	-ggfefdefggghhhgfgh-kkkjhghhhhgfggf--hkkllk-kjhkkjghgffghk--kkjh-ghg-fefg--gggg-fdef--gghgh---hgfg-hhhhghkkjh-hgh--jhghgfefggg-----kk--jkhg----
-' CH-E 611'	-gg-f-defggg--hgfgh---kjhg-hhhgfggg--gkklkl-kkhkjghgfffghh--jkjh-ghgffefgf-gggg-fdef---ghgg---hgfg-hhhghjkjhggghh--khg-hgefggg-----kk--jkhg----
-' CZ-HKm II A 4'	ggg-fedefggg--hgfgh---kjhg-hhhgfggg--gkjkll--khk-ghgfffghh--jkjh-ghg-fefgfggggg-fedf---fghg---hgfg-hhhghjkjhgefgh--jkj-hgefggg-----kk--jkhg----
-' CZ-PLm 504 C 004'	-gg-fedefggg--hgfgh---kjhg-hhhgfgg-------------------------------------------------------------------------------------------------------------
-' CZ-Pn XV A 10'	-gg-gfdefggg--hgfgh---kjhghhhhgfggg--gkjkll--khk-ghgfffghh---kjh-ghg-fefgf-gggg-fedf---fghg---hgfg-hhhgg-kjhgefgh--k---jhefggg-----kk--jkhg----
-' CZ-Pu I D 20'	ggg-fedefggg--hgfgh---kjhgghhhgfggg--gkjkl---khkgghgfffghh--jkjh-ghg-fefgf-gggg-fedfefgghgg---hgfg-hhhghjkjhgghghhkjhgfhgefggg-----------------
-' CZ-Pu XVII E 1'	-gg-fedefggg--hgfgh---kjhg-hhhgfggg--gkjhjj--hhk-ghgfffghh--jkjhgghg-fefgf-gggf-fedf---fghg---hgfg-hhhghjkjhgefgh--jkj-hgefggg-----------------
-' D-KA Aug. LX'	-gg-f-defggg--hgfgh---kjhg-hhhgfggg--gkjkllkkjhkjghgfffghh---kjh-ghg-fefgf-gggg-fdff---ghgg---hgfg-hhhghkkjhgfghh--jk--hgefggg-----------------
-' D-KNd 1161'	-gg-efdefggghhhgfgh-kkkjhg-hhhgfggf--hkkllk-kjhkkjghgffghk--kkjh-ghg-fefg--gggg-fdef---ghgh---hgfg-hhhhghkkjh-hgh--jhghgfefggg-----kk--jkhg----
-' F-Pn lat. 12044'	-gg-ffdefggg-hhgffh---kkjh-hhhgfggf--hkkllk--khkjghgfffghh-hkkjh-ghg-fefgf-ggggffddfefgghgghijhgfg-ghhghkijhg-hhi--jhghgfefgggghgkkkk--jkhg----
-' F-Pn lat. 15181'	-gg-f-defggg-hhgffh--kkjhg-hhhgfggf--hkklk---jhkkghgfffghh-ghkkj-hhg-fefgf-gggg-fd-fefggghhij-hgfg-hhhhghkjhggghh--jhghgfefggg-----kk--jkhgghgk
-' NL-Uu 406'	-gg-f-defggg-hhgfghggkkjhghhghgfggghhhkkllk--khk-ghgfffghhggkkjh-ghg-fefgf-gggg-fddfefgghgg---hgfg-hhhhggkjhggghh--khg-hgefggg-----------------
+' A-VOR Cod. 259/I'	-gg-fedefggg--hgfgh---kjhg-hhhgf-----ggg--gkjkll--khk-gghgfffghh--jkjh-ghg-fefgg-ggggf-edf---fghg---hgfghhhhghjkjhgefghjkj---hgefggg-----kkkjkkhg----
+' A-Wn 1799**'	-gg-efdefggg-hhgfgh-kkkjhg-hhhgf-----ggf--hkkllk-kjhkkjghgff-ghk--kkjh-ghg-fefg--ggggf-def---ghgh---hgfg-hhhhghkkjh-hghjhgh--gfefggg-----kk--jkhg----
+' CDN-Hsmu M2149.L4'	-ggfefdefggghhhgfgh-kkkjhghhhhgf-----ggf--hkkllk-kjhkkjghgff-ghk--kkjh-ghg-fefg--ggggf-def--gghgh---hgfg-hhhhghkkjh-hghjhgh--gfefggg-----kk--jkhg----
+' CH-E 611'	-gg-f-defggg--hgfgh---kjhg-hhhgf-----ggg--gkklkl-kkhk-jghgfffghh--jkjh-ghgffefgf-ggggf-def---ghgg---hgfg-hhhghjkjhggghhkhg---hgefggg-----kk--jkhg----
+' CZ-HKm II A 4'	ggg-fedefggg--hgfgh---kjhg-hhhgf-----ggg--gkjkll--khk--ghgfffghh--jkjh-ghg-fefgfgggggf-edf---fghg---hgfg-hhhghjkjhgefghjkj---hgefggg-----kk--jkhg----
+' CZ-PLm 504 C 004'	-gg-fedefggg--hgfgh---kjhg-hhhgf-----gg--------------------------------------------------------------------------------------------------------------
+' CZ-Pn II C 7'	-gg-fedefgg---hgfgh--kkjhg-hhhgfefgfgggg--gkjkll--khk--ghgff--gh--kjhg-hhg-fefgf-ggj---------jhgf---hfgh-hghghjkjhgefghjkj---hgefggg-----kk--jkhg----
+' CZ-Pn XV A 10'	-gg-gfdefggg--hgfgh---kjhghhhhgf-----ggg--gkjkll--khk--ghgfffghh---kjh-ghg-fefgf-ggggf-edf---fghg---hgfg-hhhgg-kjhgefghk-----jhefggg-----kk--jkhg----
+' CZ-Pu I D 20'	ggg-fedefggg--hgfgh---kjhgghhhgf-----ggg--gkjkl---khk-gghgfffghh--jkjh-ghg-fefgf-ggggf-edfefgghgg---hgfg-hhhghjkjhgghghhkjhgfhgefggg-----------------
+' CZ-Pu XVII E 1'	-gg-fedefggg--hgfgh---kjhg-hhhgf-----ggg--gkjhjj--hhk--ghgfffghh--jkjhgghg-fefgf-gggff-edf---fghg---hgfg-hhhghjkjhgefghjkj---hgefggg-----------------
+' D-KA Aug. LX'	-gg-f-defggg--hgfgh---kjhg-hhhgf-----ggg--gkjkllkkjhk-jghgfffghh---kjh-ghg-fefgf-ggggf-dff---ghgg---hgfg-hhhghkkjhgfghhjk----hgefggg-----------------
+' D-KNd 1161'	-gg-efdefggghhhgfgh-kkkjhg-hhhgf-----ggf--hkkllk-kjhkkjghgff-ghk--kkjh-ghg-fefg--ggggf-def---ghgh---hgfg-hhhhghkkjh-hghjhgh--gfefggg-----kk--jkhg----
+' F-Pn lat. 12044'	-gg-ffdefggg-hhgffh--kkjh--hhhgf-----ggf--hkkllk--khk-jghgfffghh-hkkjh-ghg-fefgf-ggggffddfefgghgghijhgfg-ghhghkijhg-hhijhgh--gfefgggghgkkkk--jkhg----
+' F-Pn lat. 15181'	-gg-fdefgggh--hgffh--kkjhg-hhhgf-----ggf--hkklk---jhk-kghgfffghhghkkj--hhg-fefgf-ggggf--dfefggghhij-hgfg-hhhhghkjhggghhjhgh--gfefggg-----kk--jkhgghgk
+' NL-Uu 406'	-gg-fdefgggh--hgfghggkkjhghhghgf-----ggghhhkkllk--khk--ghgfffghhggkkjh-ghg-fefgf-ggggf-ddfefgghgg---hgfg-hhhhggkjhggghhkhg---hgefggg-----------------
 ;
 end;

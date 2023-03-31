@@ -1,24 +1,25 @@
 #NEXUS
 BEGIN DATA;
-	DIMENSIONS NTAX=16 NCHAR=61;
+	DIMENSIONS NTAX=17 NCHAR=63;
 	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
 	MATRIX
 
-' A-VOR Cod. 259/I'	gggfedffghhggghkgghgff-khghljkjhgggghgfdfghh-ggfedefgggkkjkhg
-' A-Wn 1799**'	gggf-defghhggghjgghgffkkjhhlk--jhggghfedefghhggfdfefgggkkjkhg
-' CDN-Hsmu M2149.L4'	gggf-defghhggghjgghgffkkjhhl---jhggghfedefghhggfdfefgggkkjkhg
-' CH-E 611'	gggfedffghhggghkgghgff-kjhhljk-hggghfedefghh-ggfedefgggkkjkhg
-' CZ-HKm II A 4'	gggfedffghhggghk-ghgff-kjhhljkjhgggghfedfghhgggfedefgggkkjkhg
-' CZ-PLm 504 C 004'	gggfedffghhg-------------------------------------------------
-' CZ-Pn XV A 10'	gggfedffghhggghkgghgff-kjhhkjk-hgggghfedfghh-ggfedefggg------
-' CZ-Pu I D 20'	gggfedffghhggghkg--------------------------------------------
-' CZ-Pu XVII E 1'	gggfedffghhggghk-ghgff-kjhhljkjhgggghfedfghh-ggfedefggg------
-' D-KA Aug. LX'	gggf-defghhggghkgghgff-kjhhkjk-hgggghfedefghhggfd-efggg------
-' D-KNd 1161'	gggf-defghhggghjhghgffkkjhhlk--jhggghfedefghhggfdfefgggkkjkhg
-' F-Pn lat. 12044'	gg---dehghhggghj-ghgfk-kjhhlkjkhgggghfedf---------efgggkkjkhg
-' F-Pn lat. 15181'	gggf-defghhgggghjghgfk-kjhhlkkjhgggghfedfghh-ggfdfefgggkkjkhg
-' NL-Uu 406'	gggf-defghhggghkgghgffkkjhhlkkkhgggghfedefghhggfd------------
-' NL-Uu 406'	gggf-def-----------------------------------------------------
-' NL-Uu 406'	gggf-defghhgg-------------hkkkk------------------------------
+' A-VOR Cod. 259/I'	gggfedffghhggghkgghgff-khghljkjhgggghgfdfghh-ggfedefggg--kkjkhg
+' A-Wn 1799**'	gggf-defghhggghjgghgffkkjhhlk--jhggghfedefghhggfdfefggg--kkjkhg
+' CDN-Hsmu M2149.L4'	gggf-defghhggghjgghgffkkjhhl---jhggghfedefghhggfdfefggg--kkjkhg
+' CH-E 611'	gggfedffghhggghkgghgff-kjhhljk-h-ggghfedefghhggfedefggg--kkjkhg
+' CZ-HKm II A 4'	gggfedffghhggghk-ghgff-kjhhljkjhgggghfedfghhgggfedefggg--kkjkhg
+' CZ-PLm 504 C 004'	gggfedffghhg---------------------------------------------------
+' CZ-Pn II C 7'	gggfedffghhggghk-ghgff-kjhhljkjh-ggghfedfgh--ggfedefgggkkkkjkhg
+' CZ-Pn XV A 10'	gggfedffghhggghkgghgff-kjhhkjk-hgggghfedfghh-ggfedefggg--------
+' CZ-Pu I D 20'	gggfedffghhggghkg----------------------------------------------
+' CZ-Pu XVII E 1'	gggfedffghhggghk-ghgff-kjhhljkjhgggghfedfghh-ggfedefggg--------
+' D-KA Aug. LX'	gggf-defghhggghkgghgff-kjhhkjk-hgggghfedefghhggf-defggg--------
+' D-KNd 1161'	gggf-defghhggghjhghgffkkjhhlk--jhggghfedefghhggfdfefggg--kkjkhg
+' F-Pn lat. 12044'	gg---dehghhggghj-ghgfk-kjhhlkjkhgggghfedf---------efggg--kkjkhg
+' F-Pn lat. 15181'	gggfdefghhgggghj-ghgfk-kjhhlkkjhgggghfedfghh-ggfdfefggg--kkjkhg
+' NL-Uu 406'	gggf-defghhggghkgghgffkkjhhlkkkhgggghfedefghhggfd--------------
+' NL-Uu 406'	gggf-def-------------------------------------------------------
+' NL-Uu 406'	gggf-defghhgg-------------hkkkk--------------------------------
 ;
 end;

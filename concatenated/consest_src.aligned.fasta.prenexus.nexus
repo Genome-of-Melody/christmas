@@ -1,6 +1,6 @@
 #NEXUS
 BEGIN DATA;
-	DIMENSIONS NTAX=14 NCHAR=104;
+	DIMENSIONS NTAX=15 NCHAR=104;
 	FORMAT DATATYPE=STANDARD GAP=- MISSING=?;
 	MATRIX
 
@@ -10,6 +10,7 @@ BEGIN DATA;
 ' CH-E 611'	-----------------------------------------dhhggfede---efghghjhgfghgfdfefghgd----fefgfeddfhhf-gedfcdehhhge
 ' CZ-HKm II A 4'	-----------------------------------------cgg-feddf---e-ghghkhgfghg-dfe-gh-d----fefgfedcfghf-gedecde-----
 ' CZ-PLm 504 C 004'	d----------------------------------------dhh-gfedf---efghghkhgfghg-dfefgh-d----fefgfed-fghf-gedecde-----
+' CZ-Pn II C 7'	-----------------------------------------dhh-gfedf-----ghghkhgfghg-dfe------------gfedcfghf--edecde--deg
 ' CZ-Pn XV A 10'	-----------------------------------------dhh-gfedf---efghghkhgfghggdfefgh-d----fefgfed-fghf-gedecde-----
 ' CZ-Pu I D 20'	-----------------------------------------dhh-gfedf---efghghkhgfghg-dfegeh-d----fefgfedcfghfdgedecde-----
 ' CZ-Pu XVII E 1'	-----------------------------------------dhh-gfedf---e-ghghkhgfghg-dfe-gh-d----fefgfedcfghf-gedec-------
