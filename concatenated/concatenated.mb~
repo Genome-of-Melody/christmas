@@ -30,7 +30,7 @@ lset applyto=(1) coding=all rates=invgamma; [Mkv+I+G, nstates is automatic for t
 showmodel;
 
 [set up the MCMC, with this setting the analysis will need not less than 16 threads]
-mcmcp nruns=4 ngen=4000000 nchains=8 samplefreq=1000 printfreq=1000;
+mcmcp nruns=4 ngen=4000000 nchains=4 samplefreq=1000 printfreq=1000;
 [run the MCMC]
 mcmc;
 
